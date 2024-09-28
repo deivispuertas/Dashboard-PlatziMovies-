@@ -39,7 +39,7 @@ Este análisis presenta una visión general de las rentas de películas en el mu
 
 La siguiente imagen muestra el dashboard con la información analizada:
 
-![Dashboard de Rentas de Películas](ruta-a-tu-imagen.png)
+![Dashboard de Rentas de Películas](Dashboard-PlatziMovies.png)
 
 ---
 
